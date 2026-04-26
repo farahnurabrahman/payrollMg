@@ -45,7 +45,7 @@ Update your `.env` file with your local credentials. Ensure `config/database.php
 
 ```env
 DB_CONNECTION=sqlsrv
-DB_HOST=LAPTOP-STSQO10U\SQLE2014
+DB_HOST= LAPTOP-STSQO10U\SQLE2014 -----> is mine, so use your own server name.
 DB_PORT=1433
 DB_DATABASE=payrollManagement
 DB_USERNAME=
