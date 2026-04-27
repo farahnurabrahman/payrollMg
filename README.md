@@ -20,7 +20,7 @@ A robust, enterprise-ready payroll solution built with Laravel. Features automat
 ## 🛠 Installation & Setup
 
 ### 1. Requirements
-* **PHP:** 8.1 or 8.2
+* **PHP:** 8.2.12
 * **Laravel Framework:** 10.28.0
 * **Database:** SQL Server (sqlsrv)
 
